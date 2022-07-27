@@ -4,7 +4,6 @@ import beach2 from "../assets/beach2.jpg";
 import beach3 from "../assets/beach3.jpg";
 import beach4 from "../assets/beach4.jpg";
 import beach5 from "../assets/beach5.jpg";
-import beach6 from "../assets/beach6.jpg";
 
 const Destinations = () => {
   return (
